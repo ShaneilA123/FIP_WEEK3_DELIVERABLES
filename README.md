@@ -27,35 +27,29 @@ included in this project as `penguins.csv`.
 ## Visualizations
 
 This project contains four visualizations:
-
 ### 1. Line Plot
-![Line Plot](screenshots/line_plot.png)
-A line plot was created using Matplotlib to show the body mass of 
-the first 20 penguins.
+
+![Line Plot](Screenshots/Line%20Plot.png)
+
+A line plot was created using Matplotlib to show the body mass of the first 20 penguins.
 
 ### 2. Scatter Plot
-![Scatter Plot](screenshots/scatter_plot.png)
-A scatter plot was created using Matplotlib to visualize the 
-relationship between flipper length and body mass.
 
-The plot shows that penguins with longer flippers generally tend 
-to have greater body mass.
+![Scatter Plot](Screenshots/Scatter%20Plot.png)
+
+A scatter plot was created using Matplotlib to visualize the relationship between flipper length and body mass.
 
 ### 3. Histogram
-![Histogram](screenshots/histogram.png)
-A histogram was created using Seaborn to show the distribution 
-of penguin body mass.
 
-The histogram shows how the body mass values are distributed 
-across different ranges.
+![Histogram](Screenshots/Histogram.png)
+
+A histogram was created using Seaborn to show the distribution of penguin body mass.
 
 ### 4. Box Plot
-![Box Plot](screenshots/box_plot.png)
-A box plot was created using Seaborn to compare the body mass 
-of different penguin species.
 
-The box plot helps show the differences in body mass, variation, 
-and possible outliers between the species.
+![Box Plot](Screenshots/Box%20Plot.png)
+
+A box plot was created using Seaborn to compare the body mass of different penguin species.
 
 
 Author

@@ -52,5 +52,5 @@ A histogram was created using Seaborn to show the distribution of penguin body m
 A box plot was created using Seaborn to compare the body mass of different penguin species.
 
 
-Author
+Author:
 Alabegbe Shaneil Esohe
